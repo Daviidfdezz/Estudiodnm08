@@ -1,0 +1,82 @@
+[
+	{
+        "id": 6620235,
+        "name": "francisco villa",
+        "state": "",
+        "country": "MX",
+        "coord": {
+            "lon": -97.76442,
+            "lat": 18.844061
+        }
+    },
+    {
+        "id": 6690612,
+        "name": "Huapinol",
+        "state": "",
+        "country": "MX",
+        "coord": {
+            "lon": -92.910896,
+            "lat": 17.92285
+        }
+    },
+    {
+        "id": 6942826,
+        "name": "La Paz",
+        "state": "",
+        "country": "MX",
+        "coord": {
+            "lon": -110.300003,
+            "lat": 24.133329
+        }
+    },
+    {
+        "id": 6942835,
+        "name": "Aguascalientes",
+        "state": "",
+        "country": "MX",
+        "coord": {
+            "lon": -102.300003,
+            "lat": 21.883329
+        }
+    },
+    {
+        "id": 6942839,
+        "name": "Jesús María",
+        "state": "",
+        "country": "MX",
+        "coord": {
+            "lon": -102.349998,
+            "lat": 21.966669
+        }
+    },
+    {
+        "id": 6942858,
+        "name": "Campeche",
+        "state": "",
+        "country": "MX",
+        "coord": {
+            "lon": -90.53009,
+            "lat": 19.81839
+        }
+    },
+    {
+        "id": 6942844,
+        "name": "Tepezalá",
+        "state": "",
+        "country": "MX",
+        "coord": {
+            "lon": -102.166656,
+            "lat": 22.216669
+        }
+    },
+    {
+        "id": 6942838,
+        "name": "Cosío",
+        "state": "",
+        "country": "MX",
+        "coord": {
+            "lon": -102.300003,
+            "lat": 22.366671
+        }
+    }
+]
